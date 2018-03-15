@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Settlers of Catan</string>
+    <string name="white">White</string>
+    <string name="score">0</string>
+    <string name="blue">Blue</string>
+    <string name="settlement_1">Settlement (+1)</string>
+    <string name="city_2">City (+2)</string>
+    <string name="victory_points_1">Victory Points (+1)</string>
+    <string name="largest_army_road_1">Largest Army/Road (+1)</string>
+    <string name="reset">reset</string>
+</resources>
